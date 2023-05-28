@@ -17,7 +17,7 @@
 ##
 
 <div> 
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/gustavo-girardi-1ba072178)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-girardi-1ba072178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ![Snake animation](https://github.com/GirardiGG/GirardiGG/blob/output/github-contribution-grid-snake.svg)

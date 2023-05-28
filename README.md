@@ -22,4 +22,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 </div>
 
 Trecho de código que adicionamos no arquivo Readme.md:
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GirardiGG/GirardiGG/blob/output/github-contribution-grid-snake.svg)

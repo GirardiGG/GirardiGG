@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gustavo :)
 ##
-- 🔭 Hoje trabalho com back-end
+- 🔭 Dev Backend NodeJs/C# .NET
 - 🌱 Estudando DEVOPS.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirardiGG&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
